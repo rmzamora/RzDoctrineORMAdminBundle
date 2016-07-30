@@ -10,6 +10,7 @@
  */
 
 namespace Rz\DoctrineORMAdminBundle\Filter;
+
 use Sonata\DoctrineORMAdminBundle\Filter\ClassFilter as BaseClassFilter;
 use Sonata\AdminBundle\Form\Type\EqualType;
 

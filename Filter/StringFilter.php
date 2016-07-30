@@ -10,8 +10,8 @@
  */
 
 namespace Rz\DoctrineORMAdminBundle\Filter;
-use Sonata\DoctrineORMAdminBundle\Filter\StringFilter as BaseStringFilter;
 
+use Sonata\DoctrineORMAdminBundle\Filter\StringFilter as BaseStringFilter;
 use Sonata\AdminBundle\Form\Type\Filter\ChoiceType;
 
 class StringFilter extends BaseStringFilter
